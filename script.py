@@ -23,14 +23,14 @@ class script(object):
 <b>📢 Channel :</b> <a href='https://t.me/HxBots'>HxBots</a>
 <b>🧑‍💻 Developer :</b> <a href='https://t.me/Kirodewal'>Kirodewal</a>
 
-<b>♻️ Bot Made By :</b> @HxBots"""
+<b>♻️ Bot Made By :</b> @Itz_SpidyX"""
 
     DONATE_TXT = """
 <b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
 
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
 
-<b>🛍 UPI ID:</b> <code>hxbots@sbi</code> 
+<b>🛍 UPI ID:</b> <code>aaryanktr@axl</code> 
 
 <b>📸 Send Screenshot After Donation To Activate Your Premium Plan </b> """
 
