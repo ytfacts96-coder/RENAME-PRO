@@ -19,7 +19,7 @@ async def about(bot,update):
 async def donatecm(bot,message):
 	text = script.DONATE_TXT
 	keybord = InlineKeyboardMarkup([
-        			[InlineKeyboardButton("🦋 Admin",url = "https://t.me/Kirodewal"), 
+        			[InlineKeyboardButton("🦋 Admin",url = "http://t.me/Itz_SpidyX"), 
         			InlineKeyboardButton("✖️ Close",callback_data = "cancel") ]])
 	await message.reply_text(text = text,reply_markup = keybord)
 
@@ -70,11 +70,11 @@ async def donate(bot,update):
 async def home_callback_handler(bot, query):
     text = f"""Hello {query.from_user.mention} \n\n➻ This Is An Advanced And Yet Powerful Rename Bot.\n\n➻ Using This Bot You Can Rename And Change Thumbnail Of Your Files.\n\n➻ You Can Also Convert Video To File Aɴᴅ File To Video.\n\n➻ This Bot Also Supports Custom Thumbnail And Custom Caption.\n\n<b>Bot Is Made By @HxBots</b>"""
     keybord = InlineKeyboardMarkup([  
-                    [InlineKeyboardButton("📢 Updates", url="https://t.me/HxBots"),
-                    InlineKeyboardButton("💬 Support", url="https://t.me/HxSupport")],
+                    [InlineKeyboardButton("📢 Updates", url="https://t.me/+YtLwCu9PXRQ3MDRl"),
+                    InlineKeyboardButton("💬 Backup", url="https://t.me/+7ii1YYCdYahkOWFl")],
                     [InlineKeyboardButton("🛠️ Help", callback_data='help'),
 		            InlineKeyboardButton("❤️‍🩹 About", callback_data='about')],
-                    [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://t.me/Kirodewal")]
+                    [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="http://t.me/Itz_SpidyX")]
 		  ])
     await query.message.edit_text(text=text, reply_markup=keybord)
 
