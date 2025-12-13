@@ -7,8 +7,8 @@ API_HASH = os.environ.get("API_HASH", "")
 OWNER = int(os.environ.get("OWNER", ""))
 BOT_USERNAME = os.environ.get('BOT_USERNAME', "")
 
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "HxBots")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002031041556"))
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "@SpidyXBatches")
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002188207913"))
 
 DB_URL = os.environ.get("DB_URL", "")
 DB_NAME = os.environ.get("DB_NAME", "renamebot-premium")
