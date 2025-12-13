@@ -1,15 +1,15 @@
 
 {
 
-    "name": "RenameBot-Premium",
+    "name": "File_Renameee_bot",
 
     "description": "4GB Rename Bot With Premium Support",
 
-    "keywords": ["Premium Renamer Bot ", "4GB File", "telegram", "HxBots" ],
+    "keywords": ["Premium Renamer Bot ", "4GB File", "telegram", "File_Renameee_bot" ],
 
     "repository": "https://github.com/oVo-HxBots/RENAME-PRO",
 
-    "success_url": "https://t.me/HxBots",
+    "success_url": "https://t.me/SpidyXBatches",
 
     "env": {
 
@@ -17,7 +17,7 @@
 
             "description" : "Channel or Group user Name With @",
 
-            "value" : "HxBots",
+            "value" : "SpidyXBatches",
 
             "required" : false
 
@@ -100,7 +100,7 @@
 
              "description" : "Channel Id Nedd Store Files Get Your channel id from Rose @MissRose_bot",
 
-             "value" : "-1002031041556",
+             "value" : "-1002188207913",
 
              "required" : true
 
@@ -118,7 +118,7 @@
 
             "description" : "Add bot username without @",
 
-            "value" : "Hx_RenameBot",
+            "value" : "File_Renameee_bot",
 
             "required" : true
 
