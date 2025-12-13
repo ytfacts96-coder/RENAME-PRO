@@ -1,7 +1,7 @@
 <img src="https://graph.org/file/f4261daff37b2331905ca.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="https://t.me/hx_renamebot" target="/blank">Rename-Pro</a></>
+ <b><a href="http://t.me/File_Renameee_bot" target="/blank">Rename-Pro</a></>
 </h1>
 
 <p align="center">🤍 Thanks for Being Here 🤍</p>
@@ -122,11 +122,7 @@ restart - Use This Command To Cancel All Process And Restart The Bot [FOR ADMINS
 
 
 
-#### 🧡 Respecting... 🧡
-- [🔥 JishuDeveloper](https://github.com/JishuDeveloper) 
-- [🔥 lntechnical](https://github.com/lntechnical2)
-
-### 🤩 Bots Channel
-<a href="https://t.me/HxBots">
-   <p>❣️ HxBots🔥</p>
+### 🤩 Main Channel
+<a href="https://t.me/+YtLwCu9PXRQ3MDRl">
+   <p>❣️ Spidy X🔥</p>
 </a>
