@@ -1,16 +1,16 @@
 import os, re
 
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-API_ID = int(os.environ.get("API_ID", ""))
-API_HASH = os.environ.get("API_HASH", "")
-OWNER = int(os.environ.get("OWNER", ""))
-BOT_USERNAME = os.environ.get('BOT_USERNAME', "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8805030977:AAHl8lXN3l58-70vWi6ZsR72Njbu7PlRHm8")
+API_ID = int(os.environ.get("API_ID", "20831812"))
+API_HASH = os.environ.get("API_HASH", "9af7c0491f6f09017c3f491f571da3fe")
+OWNER = int(os.environ.get("OWNER", "6288683814"))
+BOT_USERNAME = os.environ.get('BOT_USERNAME', "RenameProoo_Bot")
 
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "@SpidyXBatches")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002188207913"))
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "SpidyXBatches")
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1003510298773"))
 
-DB_URL = os.environ.get("DB_URL", "")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://aryanktr92:pBw41GcqtlnpFjwq@cluster0.nqsufox.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DB_NAME", "renamebot-premium")
 
 STRING = os.environ.get("STRING", "")
